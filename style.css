@@ -1,0 +1,9 @@
+.links {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 30px;
+}
+body {
+     background: linear-gradient(to right, blue, lightblue);
+}
